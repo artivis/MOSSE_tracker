@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/backwards.png</file>
+        <file>imgs/forward.png</file>
+        <file alias="pauseIcon">imgs/pause.png</file>
+        <file alias="playIcon">imgs/play.png</file>
+    </qresource>
+</RCC>
